@@ -63,6 +63,31 @@ https://hub.docker.com/repository/docker/jesterdocker/custom-nginx/general
 
 ![image](https://github.com/user-attachments/assets/fd9356ce-8c03-401b-9224-25b2feb5ff2f)
 
+Отредактируйте файл compose.yaml так, чтобы были запущенны оба файла.
+
+![image](https://github.com/user-attachments/assets/eeaa3ffb-7091-46ef-830e-b976599be95e)
+
+
+
+![image](https://github.com/user-attachments/assets/378ec7b7-1a88-40f2-9a9f-70f627f41d34)
+
+
+![{761A1387-DF02-48FF-A1A5-9AB6FE4E4334}](https://github.com/user-attachments/assets/aeabc96e-5657-48ac-a6c9-6932e68a5a32)
+
+Удалил файл compose.yaml
+
+![{BD9E755C-DC1B-4D44-8E59-1D60275FA2E6}](https://github.com/user-attachments/assets/aa1c5a4f-02d8-4983-8a4d-7a457c9e3618)
+
+Скрин-ответ на 5 задание 
+
+![{DA97D006-A004-4B53-B0F1-F469127EE5F7}](https://github.com/user-attachments/assets/56279f60-56f9-4f19-b1c1-f759545c9429)
+
+
+
+
+
+
+
 
 
 
