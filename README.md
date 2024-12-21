@@ -1,6 +1,8 @@
 # Lab_3
 # Матурин Роман Ренатович ИС-22
 
+Репозиторий: https://hub.docker.com/repository/docker/jesterdocker/custom-nginx/general
+
 Задание 1. Решение:
 
 https://hub.docker.com/repository/docker/jesterdocker/custom-nginx/general
